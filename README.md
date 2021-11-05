@@ -27,3 +27,6 @@ or
 ```bash
 python3 StockInfoCLI.py -t AAPL
 ```
+
+## Demo
+<img src="/screenshot.png" width="128"/>
